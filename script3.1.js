@@ -1,0 +1,6 @@
+class retangulo{
+    constructor(){
+        
+    }
+    
+}
